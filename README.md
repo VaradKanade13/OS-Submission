@@ -10,6 +10,8 @@ CA-3 — Page Replacement Design & Debugging Challenge: Diagnosed and modeled Be
 
 CA-5 — Linux Virtual Memory Engineering Challenge: Correlated simulation behavior with Linux kernel telemetry (/proc/meminfo, /proc/<pid>/statm, vmstat, pidstat, resource.getrusage(), and cgroups v2) on Ubuntu 24.04 LTS / Linux 6.6.x (WSL2). Tuned vm.swappiness=10 and vm.vfs_cache_pressure=50, applied scan-resistant queue partitioning concepts, and used cgroups v2 memory.max limits to protect working sets.
 
+file:///C:/Users/Varad/Downloads/Operating%20Systems%20Projects%20Summary.pdf
+
 
 # A OVERVIEW OF MICRO OS
 
